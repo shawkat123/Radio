@@ -33,6 +33,10 @@
 #define IN_EUROPE
 
 // int STATUS_LED = 13;
+#define resetPin 52
+// SDA/A4 on Arduino
+#define SDIO 20
+int SCLK = 21; //SCL/A5 on Arduino
 
 // Register Definitions -----
 
